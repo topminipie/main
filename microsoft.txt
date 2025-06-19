@@ -1,0 +1,64 @@
+[Adblock Plus]
+! Title: Microsoft
+! Homepage: https://github.com/topminipie/main
+! Expires: 10 day
+! Version: 1
+! Syntax: AdBlock
+!
+||1drv.com^
+||1drv.ms^
+||appcenter.ms^
+||windowsupdate.nsatc.net^
+||microsoft.com.nsatc.net^
+||azure-api.net^
+||azure.com^
+||azurecontainer.io^
+||azurecr.io^
+||azureedge.net^
+||azurefd.net^
+||azure-mobile.net^
+||azurewebsites.net^
+||bing.com^
+||bing.net^
+||cloudapp.net^
+||data.microsoft.com.akadns.net^
+||gfx.ms^
+||hotmail.com^
+||live.com^
+||live.net^
+||microsoft.com^
+||microsoftedgeinsider.com^
+||microsoftonline.com^
+||microsoftwindowsupdate.net^
+||msedge.net^
+||msftconnecttest.com^
+||msftncsi.com^
+||msn.com^
+||office365.com^
+||office.com^
+||office.net^
+||onedrive.com^
+||onmicrosoft.com^
+||outlook.com^
+||sharepoint.com^
+||skype.com^
+||t-msedge.net^
+||a-msedge.net^
+||visualstudio.com^
+||vo.msecnd.net^
+||windows.com^
+||windows.net^
+||windowsupdate.com^
+||windowupdate.org^
+||windowsazure.com^
+||akamaitechnologies.com^
+||msauth.net^
+||msftauth.net^
+||aka.ms^
+||xboxlive.com^
+||xbox.com^
+||trafficmanager.net^
+||microsoftapp.net^
+||azure.cn^
+||azure.us^
+
