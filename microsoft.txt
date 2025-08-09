@@ -61,4 +61,6 @@
 ||microsoftapp.net^
 ||azure.cn^
 ||azure.us^
+||s-microsoft.com^
+||aspnetcdn.com^
 
