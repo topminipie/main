@@ -1,5 +1,6 @@
 [Adblock Plus]
 ! Title: Microsoft
+! Description: Does not include GitHub.
 ! Homepage: https://github.com/topminipie/main
 ! Expires: 10 day
 ! Version: 1
@@ -63,4 +64,8 @@
 ||azure.us^
 ||s-microsoft.com^
 ||aspnetcdn.com^
+||minecraft.net^
+||clarity.ms^
+||minecraft-services.net^
+||mojang.com^
 
